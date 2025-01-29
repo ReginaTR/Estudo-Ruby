@@ -1,5 +1,5 @@
 def metodo
-    puts "Exemplo de métodos"
+    puts "Exemplo"
 end
 
 metodo
